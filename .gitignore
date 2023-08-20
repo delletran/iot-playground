@@ -1,0 +1,20 @@
+
+# Environmemt variables
+.venv
+./venv
+.env
+./env
+
+# Installed Libraries
+libraries
+./libraries
+
+# Temporary files
+.temp
+temp
+./temp
+./.temp
+
+# 
+BackUp
+./BackUp
